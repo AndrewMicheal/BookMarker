@@ -1,0 +1,27 @@
+.bookmark-title{
+    color: #aaa;
+}
+hr{
+    background-color: #aaa;
+}
+.bookMarkItem{
+    background-color: #eeee;
+}
+
+.bookmark-item-text{
+    color: #333;
+}
+
+.book-mark-content-item{
+    background-color: #eeee;
+}
+.book-mark-content-item button{
+    width: 10%;
+}
+
+footer{
+    color: #aaa;
+}
+.bookMark h3{
+    font-weight: bold;
+}
